@@ -1,0 +1,3 @@
+couvercle_marmite
+bouclier_boko
+bouclier_gardien_1.0

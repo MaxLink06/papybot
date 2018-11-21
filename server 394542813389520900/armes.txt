@@ -1,0 +1,8 @@
+branche_arbre
+torche
+louche
+boomerang
+massue_boko
+épée_voyageur
+épée_gardien_1.0
+serpe_coupe_gorge

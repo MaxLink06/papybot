@@ -1,0 +1,3 @@
+épée_gardien_1.0
+bouclier_gardien_1.0
+(rien)
